@@ -245,7 +245,7 @@ function create_config( )
     "lock_join",
     "support"
     },
-    sudo_users = {158990680},--Sudo users
+    sudo_users = {103365027,24878907},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -316,7 +316,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Evill Commands list :
  
 1-banhammer list ^
  
@@ -474,11 +474,9 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @behroozYaghi
+Developer: @Xx_admin1_zaq_xX
 توسعه دهنده
 
-channel: @nod32team
-کانال ما
 
 G00D LUCK ^_^
 ]]
