@@ -221,6 +221,8 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
+    "filter",
+    "text",
     "invite",
     "all",
     "leave_ban",
@@ -462,21 +464,14 @@ Evill Commands list :
 
 10-bot number & support ^
 
-!share
-دریافت شماره ربات
-
 !support
 وصل شدن به ساپورت
-
-!version
-ورژن ربات
 
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
 Developer: @Xx_admin1_zaq_xX
 توسعه دهنده
-
 
 G00D LUCK ^_^
 ]]
