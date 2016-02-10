@@ -226,6 +226,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "info_fa",
+    "info_en",
     "admin",
     "antilink",
     "antitag",
