@@ -230,6 +230,7 @@ function create_config( )
     "info_en",
     "admin",
     "antilink",
+    "welcome",
     "antitag",
     "linkpv",
     "plugins",
